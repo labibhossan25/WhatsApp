@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://voxly.app/</loc><priority>1.0</priority></url>
+  <url><loc>https://voxly.app/features</loc><priority>0.9</priority></url>
+  <url><loc>https://voxly.app/features/messaging</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/features/calling</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/features/groups</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/features/channels</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/features/status</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/features/security</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/privacy</loc><priority>0.7</priority></url>
+  <url><loc>https://voxly.app/business</loc><priority>0.8</priority></url>
+  <url><loc>https://voxly.app/download</loc><priority>0.9</priority></url>
+  <url><loc>https://voxly.app/blog</loc><priority>0.7</priority></url>
+  <url><loc>https://voxly.app/about</loc><priority>0.6</priority></url>
+  <url><loc>https://voxly.app/contact</loc><priority>0.6</priority></url>
+  <url><loc>https://voxly.app/help</loc><priority>0.7</priority></url>
+</urlset>
